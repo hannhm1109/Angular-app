@@ -37,7 +37,7 @@ mvn spring-boot:run
 ### 1. Cloner le projet et installer les dépendances
 
 ```bash
-git clone https://github.com/hannhm1109/ang-app.git
+git clone https://github.com/hannhm1109/Angular-app.git
 cd ang-app
 npm install
 ```
